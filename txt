@@ -1,0 +1,13 @@
+FastAPI Docs
+http://127.0.0.1:8000/docs
+
+
+
+LangServe Playground
+http://127.0.0.1:8000/langserve/playground
+
+
+
+
+Gradio UI
+http://127.0.0.1:7860

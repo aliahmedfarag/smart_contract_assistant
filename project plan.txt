@@ -1,0 +1,10 @@
+smart_contract_assistant/
+├── src/
+│   ├── ingestion.py    # Document processing
+│   ├── retrieval.py    # Semantic search
+│   ├── qa_chain.py     # Q&A system
+│   └── utils.py        # Helper functions
+├── app.py              # Gradio interface
+├── server.py           # FastAPI server
+├── evaluate.py         # Evaluation pipeline
+└── requirements.txt    # Dependencies

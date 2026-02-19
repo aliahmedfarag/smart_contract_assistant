@@ -1,0 +1,66 @@
+{
+  "timestamp": "2026-02-17T23:05:30.220380",
+  "summary": {
+    "total_questions": 5,
+    "good_answers": 4,
+    "success_rate": 0.8,
+    "avg_keyword_score": 1.0
+  },
+  "detailed_results": [
+    {
+      "question": "Who are the parties in this contract?",
+      "answer": "The parties in this contract are Party A: ABC Company and Party B: XYZ Corporation.",
+      "metrics": {
+        "keyword_score": 1.0,
+        "answer_length": 83,
+        "num_sources": 1,
+        "guardrail": false,
+        "quality": "good"
+      }
+    },
+    {
+      "question": "What is the contract duration?",
+      "answer": "The contract duration is 12 months.",
+      "metrics": {
+        "keyword_score": 1.0,
+        "answer_length": 35,
+        "num_sources": 1,
+        "guardrail": false,
+        "quality": "good"
+      }
+    },
+    {
+      "question": "What is the total value?",
+      "answer": "$50,000.",
+      "metrics": {
+        "keyword_score": 1.0,
+        "answer_length": 8,
+        "num_sources": 1,
+        "guardrail": false,
+        "quality": "poor"
+      }
+    },
+    {
+      "question": "What are the termination conditions?",
+      "answer": "Either party may terminate the contract with 30 days notice, as stated in Article 4.",
+      "metrics": {
+        "keyword_score": 1.0,
+        "answer_length": 84,
+        "num_sources": 1,
+        "guardrail": false,
+        "quality": "good"
+      }
+    },
+    {
+      "question": "Who is responsible for damages?",
+      "answer": "ABC Company is responsible for all damages.",
+      "metrics": {
+        "keyword_score": 1.0,
+        "answer_length": 43,
+        "num_sources": 1,
+        "guardrail": false,
+        "quality": "good"
+      }
+    }
+  ]
+}
